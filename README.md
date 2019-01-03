@@ -1,0 +1,1 @@
+# mengetahui-segitiga-sama-sisi-atau-bukan
